@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I'm Andres, A Desing Engineer based in Venezuela
+## I'm Andres, A Front End Developer based in Venezuela
 ## I desing whatever i can imagine 
 ## My tech stack is React, TailwindCss, GSAP, and ThreeJS 
 ## Im currently working on a 3D keyboard Visualizer ⌨️
