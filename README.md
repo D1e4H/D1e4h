@@ -5,9 +5,9 @@
 ---
 
 ### 💻 About Me
-* 🌱 I’m currently studying **Computer Engineering** at Universidad Simón Bolívar.
-* 💻 Passionate about **Frontend Web Development** and creative interface design.
-* ⚡ Fun fact: I love building interactive web apps and component-based architectures.
+* 🌱 I’m a self taught developer based in Venezuela.
+* 💻 Passionate about **Frontend Web Development** and creative interfaces .
+* ⚡ Fun fact: I love music.
 
 ---
 
@@ -40,6 +40,6 @@
 
 ### 📫 Connect with Me
 
-* **Portfolio:** [Coming Soon / Link]
+* **Portfolio:** [https://diego-henriquez.vercel.app/]
 * **LinkedIn:** [Diego Henriquez](https://www.linkedin.com/in/diego-henriquezar/)
 * **Email:** diegoandrezenriquez@gmail.com
